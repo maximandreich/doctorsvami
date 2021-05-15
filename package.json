@@ -1,0 +1,29 @@
+{
+  "name": "weather-for-week",
+  "version": "1.0.0",
+  "description": "Forecast for week, day with map(temperaature+photo)",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://Maxim_Andreich@bitbucket.org/Maxim_Andreich/weather-for-week.git"
+  },
+  "keywords": [
+    "weather",
+    "week",
+    "day",
+    "map",
+    "temperature",
+    "forecast"
+  ],
+  "author": "Maxim Misha Yaroslav Alexey",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/Maxim_Andreich/weather-for-week#readme",
+  "dependencies": {
+    "typescript": "^4.2.4",
+    "typescript-fsa": "^3.0.0",
+    "typescript-fsa-reducers": "^1.2.2"
+  }
+}

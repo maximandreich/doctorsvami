@@ -1,0 +1,1 @@
+java -jar ./utils/swagger-codegen-cli.jar generate -i api/swagger/swagger.yaml -l openapi -o ./gen
